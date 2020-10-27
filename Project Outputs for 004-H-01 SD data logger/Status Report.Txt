@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:08:39 PM On 10/27/2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [004-H-01 SD data logger.PrjPcb]
+   Generated File[004-H-01 SD data logger_BOM.pdf]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:08:39 PM On 10/27/2020

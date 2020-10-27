@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [004-H-01 SD data logger.PcbDoc]
+   Generated File[004-H-01 SD data logger-Plated.TXT]
+   Generated File[004-H-01 SD data logger-NonPlated.TXT]
+   Generated File[004-H-01 SD data logger.LDP]
+   Generated File[004-H-01 SD data logger.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:09:02 PM On 10/27/2020
