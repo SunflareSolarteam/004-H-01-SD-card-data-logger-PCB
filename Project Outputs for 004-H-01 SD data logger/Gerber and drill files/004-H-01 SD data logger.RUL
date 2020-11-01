@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Projects\Sunflare solar team\004-H-01-00 [Design frozen] SD Logger\004-H-01\004-H-01 SD data logger.PcbDoc
+DRC Rules Export File for PCB: D:\Projects\Sunflare solar team\git\004-H-01-SD-card-data-logger-PCB\004-H-01 SD data logger.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00

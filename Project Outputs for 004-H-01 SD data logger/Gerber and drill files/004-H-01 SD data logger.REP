@@ -2,6 +2,46 @@
 FileName = 004-H-01 SD data logger.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Layer
+      File : 004-H-01 SD data logger.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D91
+    D92
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : 004-H-01 SD data logger.GM8
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : 004-H-01 SD data logger.GBS
 
@@ -30,46 +70,30 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : 004-H-01 SD data logger.GTP
+Generating : Bottom Paste
+      File : 004-H-01 SD data logger.GBP
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Bottom Paste
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 004-H-01 SD data logger.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D16
 *************************************************************
 
 *************************************************************
@@ -130,94 +154,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : 004-H-01 SD data logger.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : 004-H-01 SD data logger.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : 004-H-01 SD data logger.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D91
-    D92
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : 004-H-01 SD data logger.GM8
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : 004-H-01 SD data logger.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D107
-    D108
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : 004-H-01 SD data logger.GTS
 
@@ -270,5 +206,69 @@ Used DCodes :
     D88
     D89
     D90
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 004-H-01 SD data logger.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 004-H-01 SD data logger.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
